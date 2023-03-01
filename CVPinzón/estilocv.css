@@ -7,6 +7,13 @@
     margin: 35px;
 }
 
+.cuerpo {
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    padding: 20px;
+    margin: 20px;
+}
+
 h2 {
     font-family: 'Golos Text', sans-serif;
     font-size: xx-large;
@@ -14,11 +21,4 @@ h2 {
     background-color:rgb(44, 112, 95);
     padding: 20px;
     border: 10px;
-}
-
-.cuerpo {
-    font-family: 'Roboto', sans-serif;
-    font-size: medium;
-    padding: 20px;
-    margin: 20px;
 }
