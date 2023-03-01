@@ -1,0 +1,24 @@
+.encabezado {
+    font-family:'Golos Text', sans-serif; 
+    font-size: xx-large;
+    color:rgb(44, 112, 95);
+    border: 5px solid rgb(44, 112, 95);
+    padding: 20px;
+    margin: 35px;
+}
+
+h2 {
+    font-family: 'Golos Text', sans-serif;
+    font-size: xx-large;
+    color: white;
+    background-color:rgb(44, 112, 95);
+    padding: 20px;
+    border: 10px;
+}
+
+.cuerpo {
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    padding: 20px;
+    margin: 20px;
+}
